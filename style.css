@@ -1,0 +1,27 @@
+body {
+    min-height: 2000px;
+    background-color: rgba(131, 216, 209, 0.521);
+}
+.about {
+    text-align: center;
+    margin-top: 300px;
+}
+#about {
+    padding-top: 55px;
+}
+.now {
+    text-align: center;
+    margin-top: 300px;
+}
+#now {
+    padding-top: 55px;
+    background-position: 100%;
+}
+.contak {
+    text-align: center;
+    margin-top: 300px;
+}
+.contak {
+    padding-top: 60px;
+    background-position: 100%;
+}
